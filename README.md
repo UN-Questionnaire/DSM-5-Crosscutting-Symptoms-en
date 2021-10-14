@@ -53,7 +53,7 @@ Printing / downloading results as pdf is disabled by default on Android devices.
  
 ####  Privacy
  A single session cookie is temporarily stored during a session on one device/browser (it expires after 30 minutes automatically, if not cleared before). 
-No personal-sensible information are assessed and data is only used to validate and normate the questionnaire. [2](/Privacy-Note)
+No personal-sensible information are assessed and data is only used to validate and normate the questionnaire. [2](./privacy-note)
 	
 
 ### Further Development
