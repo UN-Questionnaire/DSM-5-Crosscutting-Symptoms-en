@@ -18,7 +18,7 @@ This online adaption provides automatized results feedback. Data is only used to
 A preview version is available to ensure higher quality data in real testings. Please use this if you only want to have a look:
 
 
- [New PREVIEW Run : ](https://dsm5-symptoms-en-preview.formr.org) https://dsm5symptoms-en-preview.formr.org 
+ [New PREVIEW Run : ](https://dsm5-symptoms-en-preview.formr.org) https://dsm5-symptoms-en-preview.formr.org 
 
 
 ## Testing
@@ -29,7 +29,7 @@ A preview version is available to ensure higher quality data in real testings. P
 
 
 
-[Start New Testing : ](https://dsm5-symptoms-en.formr.org) https://dsm5symptoms-en.formr.org
+[Start New Testing : ](https://dsm5-symptoms-en.formr.org) https://dsm5-symptoms-en.formr.org
 
 
 
